@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(26, 41, 48);
+    color: rgb(255,255,255);
+	width: 1200px;
+	margin: 0 auto;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: San Francisco;
+}
+
+.naziv {
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+
+#tiramisutekst {
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.flex-container {
+	display: flex;
+	flex-flow: row nowrap;
+}
+
+.sastojci {
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.priprema {
+    font-family: sans-serif;
+    font-size: 15px;
+	width: 1000px;
+	margin-left: auto;
+}
+
+
+#priprema {
+	text-align: right;
+	font-family: sans-serif;
+	margin-right: 30px;
+}
+
+#potrebnenamirnice {
+	font-family: sans-serif;
+}
+
+.priprema-losos {
+	font-family: sans-serif;
+	width: 500px;
+	
+}
+
+#losos {
+	height: 270px;
+	width: auto;
+}
