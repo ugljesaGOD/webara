@@ -66,3 +66,9 @@ img {
 	height: 270px;
 	width: auto;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
